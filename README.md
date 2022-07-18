@@ -1,7 +1,8 @@
 # JOGO DA VELHA
 
+<div style="display: inline_block"><br>
 <img src="tela.png" alt="exemplo imagem">
-
+</div>
 ## 💻 Pré-requisitos
 
 Antes de começar:
